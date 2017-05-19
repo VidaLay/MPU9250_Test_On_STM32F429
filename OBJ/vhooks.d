@@ -1,0 +1,17 @@
+..\obj\vhooks.o: ..\VIDAOS\Src\vHooks.c
+..\obj\vhooks.o: ..\VIDAOS\Inc\vHooks.h
+..\obj\vhooks.o: ..\VIDAOS\Inc\VidaOS.h
+..\obj\vhooks.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\vhooks.o: ..\VIDAOS\Inc\vLib.h
+..\obj\vhooks.o: ..\VIDAOS\Inc\vConfig.h
+..\obj\vhooks.o: ..\VIDAOS\Inc\vTask.h
+..\obj\vhooks.o: ..\VIDAOS\Inc\vSched.h
+..\obj\vhooks.o: ..\VIDAOS\Inc\vDelay.h
+..\obj\vhooks.o: ..\VIDAOS\Inc\vEvent.h
+..\obj\vhooks.o: ..\VIDAOS\Inc\vSem.h
+..\obj\vhooks.o: ..\VIDAOS\Inc\vMbox.h
+..\obj\vhooks.o: ..\VIDAOS\Inc\vMemBlock.h
+..\obj\vhooks.o: ..\VIDAOS\Inc\vFlagGroup.h
+..\obj\vhooks.o: ..\VIDAOS\Inc\vMutex.h
+..\obj\vhooks.o: ..\VIDAOS\Inc\vTimer.h
+..\obj\vhooks.o: ..\VIDAOS\Inc\vHooks.h
