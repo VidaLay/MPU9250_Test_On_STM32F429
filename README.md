@@ -4,7 +4,7 @@ MPU9250 9-Axis Gyro+Accel+Magn Sensor test on STM32F429
 =========================
 Implement the functionality of MPU9230 on STM32F429 plattform.
 
-Function
+Features
 ------------
 * Temperature and euler angle displayed on LCD
 * Measured data uploaded by serial port and CAN bus
