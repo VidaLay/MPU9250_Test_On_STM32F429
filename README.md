@@ -30,14 +30,14 @@ Software Environment
 
 
 
-Headwear
+Hardware
 ------------
 * STM32F429 MCU Discovery Kits
 * CANalyest-II
 
 Experimental results
 ------------
-#### Headwear
+#### Hardware
 ![](https://github.com/VidaLay/MPU9250_Test_On_STM32F429/blob/master/Photos/Headwear.jpg?raw=true)
 
 #### Accelerometer update
