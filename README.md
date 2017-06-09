@@ -37,6 +37,9 @@ Hardware
 
 Experimental results
 ------------
+#### Architecture
+![](https://github.com/VidaLay/MPU9250_Test_On_STM32F429/blob/master/Photos/Architecture.png?raw=true)
+
 #### Hardware
 ![](https://github.com/VidaLay/MPU9250_Test_On_STM32F429/blob/master/Photos/Headwear.jpg?raw=true)
 
