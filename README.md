@@ -8,7 +8,7 @@ Features
 ------------
 * Temperature and euler angle displayed on LCD
 * Measured data uploaded by serial port and CAN bus
-* Received data can be displayed graphically
+* Received data can be graphically displayed in PC
 * Power saving mode
 * Upload mode controlled by keys
 * Watchdog
@@ -46,6 +46,6 @@ Experimental results
 #### Gyro update
 ![](https://github.com/VidaLay/MPU9250_Test_On_STM32F429/blob/master/Photos/Gyro.png?raw=true)
 
-#### Attitude displayed graphically
+#### Attitude graphically displayed
 ![](https://github.com/VidaLay/MPU9250_Test_On_STM32F429/blob/master/Photos/Attitude.png?raw=true)
 
