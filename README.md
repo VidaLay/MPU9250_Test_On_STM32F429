@@ -26,7 +26,7 @@ Software Environment
 
 * MDK Version 5.20.0.0
 * USB-CAN Tool V2.02
-* ANO_TC匿名科创地面站V4
+* ANO_TC_V4
 
 
 
