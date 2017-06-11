@@ -52,3 +52,6 @@ Experimental results
 #### Attitude graphically displayed
 ![](https://github.com/VidaLay/MPU9250_Test_On_STM32F429/blob/master/Photos/Attitude.png?raw=true)
 
+#### Received CAN data
+![](https://github.com/VidaLay/MPU9250_Test_On_STM32F429/blob/master/Photos/CAN.png?raw=true)
+
